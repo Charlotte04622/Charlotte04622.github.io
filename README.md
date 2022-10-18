@@ -1,7 +1,8 @@
 # Charlotte04622.github.io
 hello! welcome!
-
+```
 # 整數的差別
+```cpp
 #include<stdio.h>
 int main()
 {
@@ -11,8 +12,9 @@ int main()
     long long int a=9876543210;
     printf("long long int 印出來 %lld\n", a);
 }
-
+```
 # long long int 很長很長的整數計算
+```cpp
 #include<stdio.h>
  int main()
  {
@@ -28,8 +30,9 @@ int main()
      }
      printf("最大公因數是:%lld\n", ans);
  }
-
+```
 # 輾轉相除法
+```cpp
 #include<stdio.h>
  int main()
  {
@@ -45,8 +48,9 @@ int main()
      }
     printf("答案是: %lld\n",b);
  }
-
+```
 # 剝皮
+```cpp
 #include<stdio.h>
  int main()
 {
