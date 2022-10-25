@@ -91,7 +91,7 @@ int main()
 
 # week08
 ```
-#判斷1個質數
+# 判斷1個質數
 ```cpp
 #include <stdio.h>
 int main()
@@ -107,7 +107,7 @@ int main()
 }
 
 ```
-#列出質數
+# 列出質數
 ```cpp
 #include <stdio.h>
 int main()
@@ -124,7 +124,7 @@ int main()
 }
 
 ```
-#直角三角形
+# 直角三角形
 ```cpp
 #include <stdio.h>
 int main()
@@ -142,7 +142,7 @@ int main()
     }
 }
 ```
-#while迴圈
+# while迴圈
 ```cpp
 #include <stdio.h>
 int main()
@@ -162,7 +162,7 @@ int main()
 }
 
 ```
-#有星星的右方直角三角形
+# 有星星的右方直角三角形
 ```cpp
 #include <stdio.h>
 int main()
